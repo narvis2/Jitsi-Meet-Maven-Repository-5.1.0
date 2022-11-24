@@ -1,6 +1,7 @@
 ## 🍎 Jitsi-Meet 기반 화상회의 SDK 화 작업 테스트
 
 - ✔️ Jitsi-Meet Repository 👉 [Jitsi-Meet](https://github.com/jitsi/jitsi-meet)
+- 이 프로젝트는 `react-native-jitsi-meet` 프로젝트와 함께 사용하기 위해 `Jitsi-Meet` `SDK` `Version` `5.1.0` 을 채택하여 사용하였습니다.
 
 ### 🍀 Jitsi-Meet Android SDK 화 작업 순서
 
